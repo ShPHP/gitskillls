@@ -6,4 +6,14 @@
 测试用
 i
 wefe
+<<<<<<< HEAD
 qq
+=======
+wefwefefi
+
+wefwef
+wefwefefi
+
+wefefefreerg
+erger
+>>>>>>> dev2
