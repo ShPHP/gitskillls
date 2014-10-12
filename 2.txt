@@ -1,4 +1,10 @@
 
 
+<<<<<<< HEAD
 测
+=======
+测试用
+i
+wefe
+>>>>>>> dev2
 wefwefef
